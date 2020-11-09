@@ -1,0 +1,29 @@
+C:\Users\gravi\Desktop\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\netstandard2.0\ProjetoIntegrador.deps.json
+C:\Users\gravi\Desktop\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\netstandard2.0\ProjetoIntegrador.dll
+C:\Users\gravi\Desktop\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\gravi\Desktop\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\gravi\Desktop\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\ProjetoIntegrador.AssemblyInfoInputs.cache
+C:\Users\gravi\Desktop\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\ProjetoIntegrador.AssemblyInfo.cs
+C:\Users\gravi\Desktop\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\netstandard2.0\ref\ProjetoIntegrador.dll
+C:\Users\gravi\Desktop\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\netstandard2.0\ProjetoIntegrador.pdb
+C:\Users\gravi\Desktop\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\ProjetoIntegrador.csprojAssemblyReference.cache
+C:\Users\gravi\Desktop\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\ProjetoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\gravi\Desktop\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\gravi\Desktop\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\ProjetoIntegrador.dll
+C:\Users\gravi\Desktop\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\ref\ProjetoIntegrador.dll
+C:\Users\gravi\Desktop\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\ProjetoIntegrador.pdb
+C:\Users\gravi\Desktop\novo programa\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\netstandard2.0\ProjetoIntegrador.deps.json
+C:\Users\gravi\Desktop\novo programa\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\netstandard2.0\ProjetoIntegrador.dll
+C:\Users\gravi\Desktop\novo programa\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\netstandard2.0\ref\ProjetoIntegrador.dll
+C:\Users\gravi\Desktop\novo programa\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\netstandard2.0\ProjetoIntegrador.pdb
+C:\Users\gravi\Desktop\novo programa\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\ProjetoIntegrador.csprojAssemblyReference.cache
+C:\Users\gravi\Desktop\novo programa\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\gravi\Desktop\novo programa\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\gravi\Desktop\novo programa\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\ProjetoIntegrador.AssemblyInfoInputs.cache
+C:\Users\gravi\Desktop\novo programa\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\ProjetoIntegrador.AssemblyInfo.cs
+C:\Users\gravi\Desktop\novo programa\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\ProjetoIntegrador.dll
+C:\Users\gravi\Desktop\novo programa\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\ref\ProjetoIntegrador.dll
+C:\Users\gravi\Desktop\novo programa\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\ProjetoIntegrador.pdb
+C:\Users\gravi\Desktop\novo programa\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\ProjetoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\gravi\Desktop\novo programa\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\gravi\Desktop\novo programa\ProjetoIntegrador\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\netstandard2.0\Second.xaml.g.cs

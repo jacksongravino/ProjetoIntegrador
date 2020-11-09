@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjetoIntegrador.Second">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="lblCodi"
+                   Text="{Binding Name}"
+                   FontSize="Medium"
+                   HorizontalOptions="Center"
+                   Margin="20"/>
+            <Button Text="Apagar" Clicked="OnDeleteButtonClicked"/>
+            <Entry x:Name="etDest" Keyboard="Email" Placeholder="Informe o e-mail do destinatario"/>
+            <Button x:Name="btEnviar" Text="Enviar" Clicked="BtEnviar_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
